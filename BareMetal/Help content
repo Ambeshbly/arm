@@ -10,5 +10,7 @@ Git Commands
 git fetch origin
 git reset --hard origin/master
 git status
+git commit -m "Added some git commands" "BareMetal/Help content"
+git push -u origin main
 
 
